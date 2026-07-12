@@ -112,7 +112,6 @@
 - 서경대학교 컴퓨터과학과 (2017 ~ 2021)
 - KITRI Best of the Best (BoB) 8기 취약점분석트랙 수료 (2019 ~ 2020)
 - Microsoft Learn Student Ambassador — Gold Milestone (2021 ~ 2023, 국내 최초 Gold 달성)
-- 정보처리기사
 
 ---
 
