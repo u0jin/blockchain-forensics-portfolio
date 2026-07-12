@@ -44,8 +44,7 @@
 - 동적 수수료(fee) 이상 패턴 분석
 - 시계열 기반 이상 거래 탐지
 
-→ [github.com/u0jin](https://github.com/u0jin)
-
+→ [btc-anomaly-lens](https://btc-anomaly-lens.streamlit.app/)
 ---
 
 ### 🔍 ETH Anomaly Lens
@@ -56,7 +55,7 @@
 - `selfdestruct`, `delegatecall`, `tx.origin` 등 위험 함수 호출 자동 탐지
 - 컨트랙트 바이트코드 레벨 취약점 스캐닝
 
-→ [github.com/u0jin](https://github.com/u0jin)
+→ [eth-anomaly-lens](https://eth-anomaly-lens.streamlit.app/)
 
 ---
 
@@ -65,7 +64,7 @@
 
 한국 기반 금융 범죄 패턴에 특화된 암호화폐 이상 탐지 포렌식 도구. 국내 보이스피싱·불법 사금융 연계 지갑 패턴에 초점을 맞춰 설계했습니다.
 
-→ [github.com/u0jin](https://github.com/u0jin)
+→ [btc-anomaly-korea-signal](https://btc-anomaly-korea-signal.streamlit.app/)
 
 ---
 
